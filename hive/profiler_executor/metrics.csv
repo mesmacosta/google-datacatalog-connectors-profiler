@@ -1,0 +1,12 @@
+ENTRY_GROUP,METRIC,VALUE
+hive,elapsed_time_metrics,1078567.0
+hive,entries_length_metrics,1001.0
+hive,metadata_payload_bytes_metrics,7346726.0
+hive,datacatalog_api_calls,1728.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntry#200,858.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntryGroup#409,7.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteEntryGroup#400,1.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#200,1.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#403,859.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.SearchCatalog#200,1.0
+hive,google.cloud.datacatalog.v1beta1.DataCatalog.UpdateEntry#200,1.0

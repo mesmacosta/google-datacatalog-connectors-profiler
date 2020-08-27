@@ -1,0 +1,17 @@
+ENTRY_GROUP,METRIC,VALUE
+teradata,elapsed_time_metrics,1720088.0
+teradata,entries_length_metrics,1015.0
+teradata,metadata_payload_bytes_metrics,3089730.0
+teradata,datacatalog_api_calls,4079.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntry#200,922.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntryGroup#200,1.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntryGroup#409,4.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTag#200,921.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTagTemplate#200,2.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTagTemplate#409,8.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteEntry#200,373.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteEntryGroup#200,1.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteTagTemplate#200,2.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#403,922.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.ListTags#200,922.0
+teradata,google.cloud.datacatalog.v1beta1.DataCatalog.SearchCatalog#200,1.0

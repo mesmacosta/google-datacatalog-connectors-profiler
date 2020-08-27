@@ -1,0 +1,14 @@
+ENTRY_GROUP,METRIC,VALUE
+mysql,elapsed_time_metrics,1618488.0
+mysql,entries_length_metrics,1001.0
+mysql,metadata_payload_bytes_metrics,866864.0
+mysql,datacatalog_api_calls,4020.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntry#200,1001.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntryGroup#200,1.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTag#200,1001.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTagTemplate#409,2.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteEntry#200,11.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.DeleteEntryGroup#200,1.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#403,1001.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.ListTags#200,1001.0
+mysql,google.cloud.datacatalog.v1beta1.DataCatalog.SearchCatalog#200,1.0

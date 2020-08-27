@@ -1,0 +1,11 @@
+ENTRY_GROUP,METRIC,VALUE
+apache_atlas,elapsed_time_metrics,5685865.0
+apache_atlas,entries_length_metrics,4048.0
+apache_atlas,metadata_payload_bytes_metrics,4537882.0
+apache_atlas,datacatalog_api_calls,146.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.CreateEntry#200,18.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.CreateTag#200,75.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#200,8.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.GetEntry#403,18.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.ListTags#200,26.0
+apache_atlas,google.cloud.datacatalog.v1beta1.DataCatalog.UpdateEntry#200,1.0
