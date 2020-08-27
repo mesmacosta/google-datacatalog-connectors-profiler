@@ -2,7 +2,7 @@
 
 To test some PostgreSQL capabilities, itâ€™s good to have a good number of tables with different complex column types. This script generates random metadata for PostgreSQL.
 
-## Activate your virtualenv if itâ€™s not up
+## Activate your virtualenv if it's not up
 ```bash
 pip install --upgrade virtualenv
 python3 -m virtualenv --python python3 env
