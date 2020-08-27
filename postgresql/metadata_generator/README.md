@@ -1,6 +1,6 @@
 # postgresql-metadata-generator
 
-To test some PostgreSQL capabilities, itâ€™s good to have a good number of tables with different complex column types. This script generates random metadata for PostgreSQL.
+To test some PostgreSQL capabilities, it's good to have a good number of tables with different complex column types. This script generates random metadata for PostgreSQL.
 
 ## Activate your virtualenv if it's not up
 ```bash
