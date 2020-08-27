@@ -1,7 +1,7 @@
 # postgresql-cleanup-db
 Script to clear all user defined schemas.
 
-## Activate your virtualenv if itâ€™s not up
+## Activate your virtualenv if it's not up
 ```bash
 pip install --upgrade virtualenv
 python3 -m virtualenv --python python3 env
